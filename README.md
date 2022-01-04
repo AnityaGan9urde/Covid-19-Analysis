@@ -10,5 +10,5 @@ Repository for my work on the analysis of the Covid-19 dataset.<br>
 - Used Pandas to explore the data and modify it
 - Used Matplotlib to create visualizations 
 - Go to the [notebook](https://github.com/AnityaGan9urde/Covid-19-Analysis/blob/main/covid-19.ipynb).
-.
+
 
